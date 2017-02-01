@@ -1,0 +1,9 @@
+Building MelaniaCoin
+
+See doc/readme-qt.rst for instructions on building MelaniaCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MelaniaCoin.
+
+See doc/build-*.txt for instructions on building melaniacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MelaniaCoin.
